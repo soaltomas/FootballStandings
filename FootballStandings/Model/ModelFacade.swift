@@ -5,6 +5,7 @@
 //  Created by Артем Полушин on 06.07.2022.
 //
 
+// В большом проекте стоило бы разделить на несколько. Здесь же нецелесообразно.
 final class ModelFacade {
     private let networkManager = NetworkManager()
     
